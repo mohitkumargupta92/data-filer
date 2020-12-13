@@ -1,0 +1,8 @@
+.settings
+.thorntail-runner-cache
+/target/*
+.classpath
+.project
+/target/
+/.sts4-cache/
+/bin/*
