@@ -1,0 +1,419 @@
+{
+  "data": [
+    {
+      "id": 1018488405,
+      "erzeugtAm": "2020-10-13T09:19:54.624+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 1,
+      "einsatzStichwort": "NOTF.",
+      "relationships": {
+        "hauptAdresse": 1100200224744,
+        "zustaendigeWache": 22
+      },
+      "kategorie": "Rettungsdienst"
+    },
+    {
+      "id": 1018487922,
+      "erzeugtAm": "2020-10-07T09:10:56.761+0000",
+      "status": "ABGEGEBEN_UND_BEENDET",
+      "statusAnzeige": "Abgegeben und Beendet",
+      "statusPrioritaet": 3,
+      "nummer": 17001,
+      "einsatzStichwort": "Weiterleiten an LAU.",
+      "relationships": {
+        "hauptAdresse": 110020015261,
+        "zustaendigeWache": 2
+      },
+      "kategorie": "KV-Abgabe"
+    },
+    {
+      "id": 1018487918,
+      "erzeugtAm": "2020-10-06T16:02:27.875+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 1,
+      "einsatzStichwort": "NOTF. [NA REA. # EHA.]",
+      "relationships": {
+        "hauptAdresse": 41002009589,
+        "zustaendigeWache": 171
+      },
+      "kategorie": "Rettungsdienst"
+    },
+    {
+      "id": 1018487916,
+      "erzeugtAm": "2020-10-06T15:03:07.061+0000",
+      "status": "ZUR_ABGABE_FREIGEGEBEN",
+      "statusAnzeige": "Zur Abgabe freigegeben",
+      "statusPrioritaet": 31,
+      "nummer": 17001,
+      "einsatzStichwort": "Weiterleiten an LAU.",
+      "relationships": {
+        "hauptAdresse": 410020012466,
+        "zustaendigeWache": 100300181
+      },
+      "kategorie": "KV-Abgabe"
+    },
+    {
+      "id": 1018487911,
+      "erzeugtAm": "2020-10-01T14:03:12.537+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 17006,
+      "einsatzStichwort": "Weiterleiten an KV.",
+      "relationships": {
+        "hauptAdresse": 110020015266,
+        "zustaendigeWache": 2
+      },
+      "kategorie": "KV-Abgabe"
+    },
+    {
+      "id": 1018487907,
+      "erzeugtAm": "2020-10-01T13:57:24.401+0000",
+      "status": "ZUR_ABGABE_FREIGEGEBEN",
+      "statusAnzeige": "Zur Abgabe freigegeben",
+      "statusPrioritaet": 31,
+      "nummer": 17005,
+      "einsatzStichwort": "Weiterleiten an LAU.",
+      "relationships": {
+        "hauptAdresse": 110020039606,
+        "zustaendigeWache": 22
+      },
+      "kategorie": "KV-Abgabe"
+    },
+    {
+      "id": 1018487905,
+      "erzeugtAm": "2020-10-01T13:50:55.362+0000",
+      "status": "ABGEGEBEN_UND_BEENDET",
+      "statusAnzeige": "Abgegeben und Beendet",
+      "statusPrioritaet": 3,
+      "nummer": 17004,
+      "einsatzStichwort": "Weiterleiten an LAU.",
+      "relationships": {
+        "hauptAdresse": 1100200100072,
+        "zustaendigeWache": 3
+      },
+      "kategorie": "KV-Abgabe"
+    },
+    {
+      "id": 1018487420,
+      "erzeugtAm": "2020-10-01T12:48:42.457+0000",
+      "status": "ALARMIERT",
+      "statusAnzeige": "Alarmiert",
+      "statusPrioritaet": 70,
+      "nummer": 17003,
+      "einsatzStichwort": "Weiterleiten an LAU.",
+      "relationships": {
+        "hauptAdresse": 1100200224749,
+        "zustaendigeWache": 22
+      },
+      "kategorie": "KV-Abgabe"
+    },
+    {
+      "id": 1018487416,
+      "erzeugtAm": "2020-10-01T12:25:47.476+0000",
+      "status": "ABGEGEBEN_UND_BEENDET",
+      "statusAnzeige": "Abgegeben und Beendet",
+      "statusPrioritaet": 3,
+      "nummer": 17002,
+      "einsatzStichwort": "Weiterleiten an LAU.",
+      "relationships": {
+        "hauptAdresse": 110020027903,
+        "zustaendigeWache": 22
+      },
+      "kategorie": "KV-Abgabe"
+    },
+    {
+      "id": 1018487414,
+      "erzeugtAm": "2020-10-01T11:33:39.058+0000",
+      "status": "KEINE_EINSATZMITTEL_VORORT",
+      "statusAnzeige": "Keine EM vor Ort",
+      "statusPrioritaet": 60,
+      "nummer": 17001,
+      "einsatzStichwort": "NOTF.",
+      "relationships": {
+        "hauptAdresse": 110020027903,
+        "zustaendigeWache": 22
+      },
+      "kategorie": "Rettungsdienst"
+    },
+    {
+      "id": 1018487405,
+      "erzeugtAm": "2020-10-01T05:57:11.123+0000",
+      "status": "ABGEGEBEN_UND_BEENDET",
+      "statusAnzeige": "Abgegeben und Beendet",
+      "statusPrioritaet": 3,
+      "nummer": 1,
+      "einsatzStichwort": "BRAND 1.",
+      "relationships": {
+        "hauptAdresse": 110020027903,
+        "zustaendigeWache": 22
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018486910,
+      "erzeugtAm": "2020-09-30T08:10:38.228+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 1,
+      "einsatzStichwort": "NOTF.",
+      "relationships": {
+        "hauptAdresse": 11002005480,
+        "zustaendigeWache": 165
+      },
+      "kategorie": "Rettungsdienst"
+    },
+    {
+      "id": 1018486406,
+      "erzeugtAm": "2020-09-28T10:32:06.962+0000",
+      "status": "ABGEGEBEN",
+      "statusAnzeige": "Abgegeben",
+      "statusPrioritaet": 32,
+      "nummer": 2,
+      "einsatzStichwort": "BRAND 1.",
+      "relationships": {
+        "hauptAdresse": 110020027903,
+        "zustaendigeWache": 22
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018485907,
+      "erzeugtAm": "2020-09-28T08:22:11.682+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 1,
+      "einsatzStichwort": "BRAND 1.",
+      "relationships": {
+        "hauptAdresse": 110020027903,
+        "zustaendigeWache": 22
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018485905,
+      "erzeugtAm": "2020-09-15T08:26:41.005+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 2,
+      "einsatzStichwort": "BRAND 4.",
+      "relationships": {
+        "hauptAdresse": 41002009344,
+        "zustaendigeWache": 114
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018485405,
+      "erzeugtAm": "2020-09-15T06:52:17.831+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 1,
+      "einsatzStichwort": "BRAND 1.",
+      "relationships": {
+        "hauptAdresse": 1100200224627,
+        "zustaendigeWache": 143
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018484905,
+      "erzeugtAm": "2020-09-14T15:11:00.464+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 1,
+      "einsatzStichwort": "BRAND 4.",
+      "relationships": {
+        "hauptAdresse": 41002009344,
+        "zustaendigeWache": 114
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018484408,
+      "erzeugtAm": "2020-07-16T09:33:51.525+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 1,
+      "einsatzStichwort": "BRAND 1.",
+      "relationships": {
+        "hauptAdresse": 110020020432,
+        "zustaendigeWache": 34
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018484405,
+      "erzeugtAm": "2020-07-15T18:01:18.382+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 4,
+      "einsatzStichwort": "BRAND 1.",
+      "relationships": {
+        "hauptAdresse": 41002008773,
+        "zustaendigeWache": 34
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018483909,
+      "erzeugtAm": "2020-07-15T16:12:36.574+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 3,
+      "einsatzStichwort": "BRAND 2.",
+      "relationships": {
+        "hauptAdresse": 11002009773,
+        "zustaendigeWache": 49
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018483907,
+      "erzeugtAm": "2020-07-15T16:09:33.430+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 2,
+      "einsatzStichwort": "BRAND 1.",
+      "relationships": {
+        "hauptAdresse": 1100200224629,
+        "zustaendigeWache": 143
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018483905,
+      "erzeugtAm": "2020-07-15T15:09:26.931+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 1,
+      "einsatzStichwort": "BRAND 1.",
+      "relationships": {
+        "hauptAdresse": 110020054117,
+        "zustaendigeWache": 26
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018483408,
+      "erzeugtAm": "2020-07-07T14:46:03.359+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 2,
+      "einsatzStichwort": "BRAND 2.",
+      "relationships": {
+        "hauptAdresse": 10020046983,
+        "zustaendigeWache": 2
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018483405,
+      "erzeugtAm": "2020-07-07T09:00:35.938+0000",
+      "status": "ALARMIERT",
+      "statusAnzeige": "Alarmiert",
+      "statusPrioritaet": 70,
+      "nummer": 1,
+      "einsatzStichwort": "BRAND 2.",
+      "relationships": {
+        "hauptAdresse": 1100200369846,
+        "zustaendigeWache": 105
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018482904,
+      "erzeugtAm": "2020-05-28T12:00:29.284+0000",
+      "status": "ABGEMELDET",
+      "statusAnzeige": "Abgemeldet",
+      "statusPrioritaet": 80,
+      "nummer": 1,
+      "einsatzStichwort": "NOTF.",
+      "relationships": {
+        "hauptAdresse": 1100200224757,
+        "zustaendigeWache": 22
+      },
+      "kategorie": "Rettungsdienst"
+    },
+    {
+      "id": 1018482405,
+      "erzeugtAm": "2020-05-18T13:58:48.620+0000",
+      "status": "KEINE_EINSATZMITTEL_VORORT",
+      "statusAnzeige": "Keine EM vor Ort",
+      "statusPrioritaet": 60,
+      "nummer": 1,
+      "einsatzStichwort": "NOTF.",
+      "relationships": {
+        "hauptAdresse": 110020060310,
+        "zustaendigeWache": 31
+      },
+      "kategorie": "Rettungsdienst"
+    },
+    {
+      "id": 1018481904,
+      "erzeugtAm": "2020-05-14T17:25:40.221+0000",
+      "status": "VERWORFEN",
+      "statusAnzeige": "Blau gemacht",
+      "statusPrioritaet": 1,
+      "nummer": 1,
+      "einsatzStichwort": "BRAND UVA TUNNEL.",
+      "relationships": {
+        "hauptAdresse": 410020010536,
+        "zustaendigeWache": 151
+      },
+      "kategorie": "Brände"
+    },
+    {
+      "id": 1018481404,
+      "erzeugtAm": "2020-05-14T15:12:44.028+0000",
+      "status": "ALARMIERT",
+      "statusAnzeige": "Alarmiert",
+      "statusPrioritaet": 70,
+      "nummer": 20001,
+      "einsatzStichwort": "Test normal.",
+      "relationships": {
+        "hauptAdresse": 1100200369847,
+        "zustaendigeWache": 105
+      },
+      "kategorie": "Testeinsatz"
+    },
+    {
+      "id": 1018479404,
+      "erzeugtAm": "2020-05-11T13:37:20.954+0000",
+      "status": "WIRD_DISPONIERT",
+      "statusAnzeige": "Wird Disponiert",
+      "statusPrioritaet": 50,
+      "nummer": 1,
+      "einsatzStichwort": "BRAND 4.",
+      "relationships": {
+        "hauptAdresse": 1100200369845,
+        "zustaendigeWache": 105
+      },
+      "kategorie": "Brände"
+    }
+  ],
+  "included": {
+    "ortsinformation": [],
+    "wache": []
+  },
+  "pagination": {
+    "page": 0,
+    "limit": 0,
+    "total": 29
+  }
+}

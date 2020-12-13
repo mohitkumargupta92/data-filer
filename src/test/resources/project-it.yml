@@ -1,0 +1,27 @@
+thorntail:
+  http:
+    port: 9001
+  management:
+    http:
+      port: 9002
+  arquillian:
+    daemon:
+      port: 9000
+  logging:
+    pattern-formatters:
+      LOG_FORMATTER:
+        pattern: '{"date":"%d","thread":"[%t]","level":"%p","fileName":"%F","message":"%m"}%n'
+    size-rotating-file-handlers:
+      FILE:
+        file:
+          path: /opt/local/accesscontrol/logs/acp-datashield-filter/acp-datashield-filter.log
+        suffix: .yyyy-MM-dd
+        named-formatter: LOG_FORMATTER
+        level: DEBUG
+        rotate-size: 200M
+        max-backup-index: 4
+    root-logger:
+      handlers:
+      - CONSOLE
+      - FILE 
+  datasheildadmin_service: http://localhost:8089/accesscontroldatashield/apiadmin/apidetails

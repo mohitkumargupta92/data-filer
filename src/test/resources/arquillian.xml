@@ -1,0 +1,16 @@
+<arquillian xmlns="http://jboss.org/schema/arquillian"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://jboss.org/schema/arquillian/arquillian_1_0.xsd">
+	<!-- xsi:schemaLocation="http://jboss.org/schema/arquillian http://jboss.org/schema/arquillian/arquillian_1_0.xsd"> -->
+
+	<container default="true" qualifier="daemon">
+		<configuration>
+			<property name="host">localhost</property>
+			<property name="port">${thorntail.arquillian.daemon.port:9000}
+			</property>
+			<property name="javaVmArguments">${thorntail.arquillian.jvm.args:}</property>
+		</configuration>
+	</container>
+	<!-- <extension qualifier="jacoco"> <property name="includes">com.*</property> 
+		</extension> -->
+</arquillian>
